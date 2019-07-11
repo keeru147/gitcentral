@@ -10,6 +10,6 @@
             reversedNumber = reversedNumber*10 + remainder;
             n /= 10;
         }
-        printf("Reversed Number = %d", reversedNumber\n\n\n\n);
+        printf("Reversed Number = %d\n\n\n", reversedNumber);
 //        return 0;
     }
